@@ -11,6 +11,6 @@ jobs:
         with:
           node-version: 24
       - name: run-script
-        run: node ./main.js
+        run: node main.js
   
     
